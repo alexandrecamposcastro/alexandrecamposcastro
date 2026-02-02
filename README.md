@@ -1,15 +1,15 @@
 # Alexandre Campos
 
-**Computer Engineering Student @ UEMA** | **Fullstack Developer**
-
-### Technical Stack
-* [cite_start]**Languages:** Java (Core/Spring), C++, Python, JavaScript.
-* [cite_start]**Frameworks/Tools:** Spring Boot, PostgreSQL, Bootstrap, Git.
-* **Focus:** High-performance backends and system optimization.
-
-### Current Work & Research
-* **Sentinel Core:** Developing a Transaction Authorization Engine with Hybrid Risk Analysis (Java + ML) [cite: 2026-02-01].
-* [cite_start]**Academic:** Computer Engineering degree (Expected 2030).
+**Computer Engineering Student @ UEMA**
+**Certified Fullstack Java Developer (EBAC)**
 
 ---
-[LinkedIn](https://www.linkedin.com/in/alexandre-campos-dev/) • [Portfolio/Inventory System](https://github.com/alexandrecamposcastro/InventoryManagement)
+
+### Technical Expertise
+* [cite_start]**Languages:** Java, C++, Python, JavaScript[cite: 31, 61].
+* [cite_start]**Backend:** Spring Framework, SQL (PostgreSQL), API Integration[cite: 12, 42].
+* [cite_start]**Frontend:** Bootstrap, HTML5, CSS3[cite: 31, 61].
+* [cite_start]**Tools:** Git, GitHub, Agile Methodologies[cite: 31, 61].
+
+---
+[cite_start][LinkedIn](https://www.linkedin.com/in/alexandre-campos-dev/) • alek.campos07@gmail.com [cite: 1, 32]
